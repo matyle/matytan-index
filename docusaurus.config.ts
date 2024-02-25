@@ -58,7 +58,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Matytan|勒勒乐了",
+      title: "勒勒乐了",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -68,9 +68,9 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "笔记",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "博客", position: "left" },
         {
           href: "https://github.com/matyle",
           label: "GitHub",
@@ -85,7 +85,7 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
+              label: "Notes",
               to: "/docs/intro",
             },
           ],
