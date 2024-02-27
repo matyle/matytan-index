@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Matytan|勒勒乐了",
+  title: "勒勒乐了",
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
