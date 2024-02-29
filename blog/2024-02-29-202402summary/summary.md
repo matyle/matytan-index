@@ -1,5 +1,5 @@
 ---
-slug: life
+slug: summary
 title: 2024年2月总结
 authors: matyle
 tags: [life]
