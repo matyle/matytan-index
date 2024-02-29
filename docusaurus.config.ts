@@ -111,13 +111,13 @@ const config: Config = {
         src: "img/logo.svg",
       },
       items: [
+        { to: "/blog", label: "博客", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
           label: "笔记",
         },
-        { to: "/blog", label: "博客", position: "left" },
         {
           href: "https://github.com/matyle",
           label: "GitHub",

@@ -15,3 +15,5 @@ sidebar_position: 1
 《机器学习》 西瓜书
 
 《算法导论》
+
+《The Almanack Naval Ravikant:A Guide to Wealth and Happiness》
