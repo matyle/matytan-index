@@ -25,7 +25,7 @@ while the blog part is more about the insights into life and learning, or the fu
 
 ## 联系我📫
 
-Email: [matytan@outlook.com](matytan@outlook.com).
+Email: [matytan@outlook.com](mailto:matytan@outlook.com).
 
 Github: https://github.com/matyle
 
