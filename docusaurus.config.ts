@@ -144,6 +144,18 @@ const config: Config = {
               label: "Seyee's Blog",
               href: "http://seyee.co",
             },
+            {
+              label: "Nauxscript",
+              href: "https://www.nauxscript.com",
+            },
+            {
+              label: "启封 Hayden",
+              href: "https://www.haydenhayden.com/",
+            },
+            {
+              label: "Docusaurus",
+              href: "https://v2.docusaurus.io/",
+            },
           ],
         },
         {
