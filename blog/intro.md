@@ -10,9 +10,9 @@ sidebar_position: 1
 I am a backend engineer, and I am interested in blockchain, cloud computing, and machine learning.
 I will record some of my learning, work, and life summaries and insights here.
 
-[笔记](http://matytan.pages.dev/docs)
+[笔记](http://matytan.pages.dev/docs/intro)
 
-[博客](http://matytan.pages.dev/blog)
+[博客](http://matytan.pages.dev/blog/intro)
 
 [我希望我的生活是我自己的选择](https://matytan.pages.dev/blog/life)
 
